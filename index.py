@@ -1,6 +1,3 @@
-## make a tic tac toe cli game
-
-
 import os
 import random
 import sys
