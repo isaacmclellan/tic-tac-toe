@@ -1,5 +1,5 @@
 ## Tic Tac Toe
-A simple tic tac toe game.
+A simple tic tac toe cli game.
 But... your playing against a computer.
 
 
